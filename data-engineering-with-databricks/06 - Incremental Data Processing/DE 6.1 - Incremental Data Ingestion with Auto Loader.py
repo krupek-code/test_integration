@@ -148,7 +148,7 @@ block_until_stream_is_ready(query)
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC SELECT * FROM target_table
+# MAGIC SELECT count(*) FROM target_table
 
 # COMMAND ----------
 
