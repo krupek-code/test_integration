@@ -139,6 +139,10 @@ SELECT * FROM purchases_vw
 
 -- COMMAND ----------
 
+SELECT * FROM SALES
+
+-- COMMAND ----------
+
 -- MAGIC %md
 -- MAGIC 
 -- MAGIC  
